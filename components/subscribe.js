@@ -137,22 +137,22 @@ class Mailchimp extends React.Component {
             background: #0f67d4;
             color: white;
           }
-          // .button {
-          //   border: 1px solid #c90859;
-          //   color: #c90859;
-          //   text-decoration: none;
-          //   padding: 20px 50px;
-          //   background: black;
-          //   transition: all 0.5s ease-in-out;
-          //   font-size: 22px;
-          //   width: 80%;
-          //   margin: auto auto;
-          // }
+          .button {
+            border: 1px solid #c90859;
+            color: #c90859;
+            text-decoration: none;
+            padding: 20px 50px;
+            background: black;
+            transition: all 0.5s ease-in-out;
+            font-size: 22px;
+            width: 80%;
+            margin: auto auto;
+          }
 
-          // .button:hover {
-          //   background: #c90859;
-          //   color: black;
-          // }
+          .button:hover {
+            background: #c90859;
+            color: black;
+          }
         `}</style>
       </div>
     );
