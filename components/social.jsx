@@ -27,7 +27,7 @@ const SocialButtons = () => {
           </a>
         </Link>
         <a
-          href="https://t.me/thesmart_earners"
+          href="https://t.me/joinchat/PplmFhk0n2rpAm0E_vZ8Bg"
           title="My Telegram Group to answer your questions"
           rel="noopener noreferrer"
           target="_blank"
@@ -36,7 +36,7 @@ const SocialButtons = () => {
           <FaTelegramPlane />
         </a>
         <a
-          href="https://web.facebook.com/ethSmartEarners"
+          href="https://www.facebook.com/trevor.dube.146"
           title="My Facebook Profile"
           rel="noopener noreferrer"
           target="_blank"
@@ -65,7 +65,7 @@ const SocialButtons = () => {
           border-radius: 50%;
 
           font-size: 40px;
-          color: #c90859;
+          color: #0f67d4;
           display: flex;
           align-content: center center;
           justify-content: center;

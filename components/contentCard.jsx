@@ -336,19 +336,19 @@ const ContentCard = () => {
               <br />
               <br />
               <a
-                href="https://app.voomo.io/a/542/"
+                href="https://app.voomo.io/a/506/"
                 target="_blank"
                 rel="noopener noreferrer"
                 title="The Smart Contract that will earn you money"
               >
-                <b>https://app.voomo.io/a/542/</b>
+                <b>https://app.voomo.io/a/506/</b>
               </a>
               <br />
               <br /> <br />
               <br />
               <a
                 className="button"
-                href="https://app.voomo.io/a/542/"
+                href="https://app.voomo.io/a/506/"
                 target="_blank"
                 rel="noopener noreferrer"
                 title="The Smart Contract that will earn you money"
@@ -422,7 +422,7 @@ const ContentCard = () => {
         .divider {
           height: 3px;
           width: 40%;
-          background: #c90859;
+          background: #0f67d4;
           margin: auto auto;
         }
         h1,
@@ -454,8 +454,8 @@ const ContentCard = () => {
           box-shadow: 5px 5px 10px #000910, -5px -5px 10px #002340;
         }
         .button {
-          border: 1px solid #c90859;
-          color: #c90859;
+          border: 1px solid #0f67d4;
+          color: #0f67d4;
           text-decoration: none;
           padding: 20px 50px;
           background: black;
@@ -463,8 +463,8 @@ const ContentCard = () => {
         }
 
         .button:hover {
-          background: #c90859;
-          color: black;
+          background: #0f67d4;
+          color: white;
           font-size: 18px;
         }
 

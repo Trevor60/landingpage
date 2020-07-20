@@ -4,7 +4,7 @@ const CustomForm = () => {
   return (
     <div>
       <Mailchimp
-        action="https://cheapsms.us10.list-manage.com/subscribe/post?u=26cdaba5e0f7e62010fa2274f&amp;id=58e480a002"
+        action="https://gmail.us10.list-manage.com/subscribe/post?u=95d3742da8d5e23e16601ea8b&amp;id=a9398b477c"
         fields={[
           {
             name: "EMAIL",
@@ -26,7 +26,7 @@ const CustomForm = () => {
           width: 100%;
         }
         .myInput {
-          border: 3px solid #c90859;
+          border: 3px solid #0f67d4;
           background: rgba(0, 0, 0, 0.8);
           width: 40%;
           height: 50px;
@@ -35,7 +35,7 @@ const CustomForm = () => {
           padding: 10px;
         }
         button {
-          border: 1px solid #c90859;
+          border: 1px solid #0f67d4;
           color: #c90859;
           text-decoration: none;
           padding: 20px 50px;
@@ -44,8 +44,8 @@ const CustomForm = () => {
         }
 
         button:hover {
-          background: #c90859;
-          color: black;
+          background: #0f67d4;
+          color: white;
           font-size: 18px;
         }
       `}</style>

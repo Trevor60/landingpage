@@ -108,12 +108,12 @@ class Mailchimp extends React.Component {
             text-align: center;
           }
           .myInput {
-            border: 3px solid #c90859;
+            border: 3px solid #0f67d4;
             background: rgba(255, 255, 255, 0);
             width: 80%;
             margin: auto auto;
             height: 50px;
-            color: #c90859;
+            color: #0f67d4;
             font-size: 20px;
             padding: 10px;
           }
@@ -122,8 +122,8 @@ class Mailchimp extends React.Component {
             background: black;
           }
           button {
-            border: 1px solid #c90859;
-            color: #c90859;
+            border: 1px solid #0f67d4;
+            color: #0f67d4;
             text-decoration: none;
             padding: 20px 50px;
             background: black;
@@ -134,25 +134,25 @@ class Mailchimp extends React.Component {
           }
 
           button:hover {
-            background: #c90859;
-            color: black;
+            background: #0f67d4;
+            color: white;
           }
-          .button {
-            border: 1px solid #c90859;
-            color: #c90859;
-            text-decoration: none;
-            padding: 20px 50px;
-            background: black;
-            transition: all 0.5s ease-in-out;
-            font-size: 22px;
-            width: 80%;
-            margin: auto auto;
-          }
+          // .button {
+          //   border: 1px solid #c90859;
+          //   color: #c90859;
+          //   text-decoration: none;
+          //   padding: 20px 50px;
+          //   background: black;
+          //   transition: all 0.5s ease-in-out;
+          //   font-size: 22px;
+          //   width: 80%;
+          //   margin: auto auto;
+          // }
 
-          .button:hover {
-            background: #c90859;
-            color: black;
-          }
+          // .button:hover {
+          //   background: #c90859;
+          //   color: black;
+          // }
         `}</style>
       </div>
     );
