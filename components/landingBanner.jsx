@@ -40,7 +40,7 @@ const LandingBanner = () => {
         .divider {
           height: 3px;
           width: 40%;
-          background: #c90859;
+          background: #0f67d4;
           margin: auto auto;
         }
         .button {
